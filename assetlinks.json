@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "me.dipsy.calendar",
+      "sha256_cert_fingerprints": [
+        "DD:6C:BD:85:C7:65:DB:38:5D:C6:5B:09:1A:9C:CD:A9:4A:97:22:50:8A:EE:EB:E3:28:50:5D:7C:8D:5F:C6:3A"
+      ]
+    }
+  }
+]
